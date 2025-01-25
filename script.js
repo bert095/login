@@ -9,7 +9,7 @@ loginForm.addEventListener('submit', (event) => {
   if (password === '12345') {
     message.textContent = 'Login berhasil!';
     // Redirect ke halaman administrasi setelah login berhasil
-    window.location.href = 'https://sites.google.com/guru.sd.belajar.id/sdninpmbugulo/home/administrasi-sekolah';
+    window.location.href = 'https://www.komplexkocak.info/';
   } else {
     message.textContent = 'Password salah.';
   }
